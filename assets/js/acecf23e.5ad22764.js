@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkartists=self.webpackChunkartists||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/IntroClaseGit/blog","blogTitle":"Blog","authorsListPath":"/IntroClaseGit/blog/authors"}')}}]);
