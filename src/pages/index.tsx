@@ -20,7 +20,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/cumbia"
           >
-            Docusaurus Tutorial - 5min ⏱️
+            Vamos a ello! 🎉
           </Link>
         </div>
       </div>
