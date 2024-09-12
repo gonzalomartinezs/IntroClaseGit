@@ -12,12 +12,8 @@ sidebar_position: 1
 
 ## Cumbia Villera
 - Damas Gratis
-- El Retutu
-- Mala Fama
-- El Polaco
 - Yerba Brava
 - La Base
-- El Original
 - Los Pibes Chorros
 
 ## Cumbia Colombiana
