@@ -10,5 +10,7 @@ sidebar_position: 2
 - Tuqui
 - Pupi
 - Meme
+- 0303456
+- Maná
 - Soda Stereo
 - La Renga
