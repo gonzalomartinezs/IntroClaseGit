@@ -8,7 +8,7 @@ sidebar_position: 2
 - Alberto Spinetta
 - Cirolalaa
 - Lolo
-- El Indio Solari445641256156232
+- El Indio Solariii
 - Tuqui
 - Pupi
 - Meme
