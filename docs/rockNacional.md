@@ -6,7 +6,7 @@ sidebar_position: 2
 
 - Charly García
 - Alberto Spinetta
-- Ciro
+- Cirolalaa
 - Lolo
 - El Indio Solari
 - Tuqui
