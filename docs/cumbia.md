@@ -12,9 +12,9 @@ sidebar_position: 1
 
 ## Cumbia Villera
 - Damas Gratis
-- Yerba Brava
-- La Base
-- Los Pibes Chorros
+- El Retutu
+- Mala Fama
+- El Polaco
 
 ## Cumbia Colombiana
 - La Sonora Dinamita
