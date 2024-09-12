@@ -6,6 +6,9 @@ sidebar_position: 2
 
 - Charly García
 - Alberto Spinetta
+- Ciro
+- Lolo
 - El Indio Solari
 - Soda Stereo
 - La Renga
+- Cuquito
