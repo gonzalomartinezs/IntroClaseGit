@@ -15,6 +15,10 @@ sidebar_position: 1
 - El Retutu
 - Mala Fama
 - El Polaco
+- Yerba Brava
+- La Base
+- El Original
+- Los Pibes Chorros
 
 ## Cumbia Colombiana
 - La Sonora Dinamita
