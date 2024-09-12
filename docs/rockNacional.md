@@ -9,6 +9,11 @@ sidebar_position: 2
 - Ciro
 - Lolo
 - El Indio Solari
+- Tuqui
+- Pupi
+- Meme
+- 0303456
+- Maná
 - Soda Stereo
 - La Renga
 - Cuquito
