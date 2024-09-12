@@ -9,6 +9,7 @@ sidebar_position: 1
 - Los del Fuego
 - Leo Mattioli
 - Dalila. La Diosa del Verbo Amar
+- Los de Bohio
 
 ## Cumbia Villera
 - Damas Gratis
