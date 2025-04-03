@@ -12,3 +12,4 @@ sidebar_position: 2
 - Maroon 5
 - Shakira
 - BTS
+- The weeknd
