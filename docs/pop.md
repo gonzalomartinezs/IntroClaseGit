@@ -12,7 +12,7 @@ sidebar_position: 2
 - Maroon 5
 - Maroon 6
 - Shakira
-- Bad Bunny
+- Bad Bunny, el loquito que canta
 - Harry Styles
 - Justin Timberlake
 - BTS
