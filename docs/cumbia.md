@@ -6,6 +6,9 @@ sidebar_position: 1
 
 ## Cumbia Santafesina
 - Los Palmeras
+
+![Los Palmeras](/img/leo.jpg)
+
 - Los del Fuego
 - Leo Mattioli
 - Dalila. La Diosa del Verbo Amar
