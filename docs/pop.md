@@ -13,7 +13,7 @@ sidebar_position: 2
 - Maroon 6
 - Shakira
 - Bad Bunny, el loquito que canta
-- Harry Styles
+- Harry Styles, el de 1D
 - Justin Timberlake
 - BTS
 - El fin de semana
