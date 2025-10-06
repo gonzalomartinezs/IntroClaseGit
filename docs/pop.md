@@ -20,3 +20,4 @@ sidebar_position: 2
 - The weeknd
 - Dieguito Maradona
 - Lali
+- Miranda
