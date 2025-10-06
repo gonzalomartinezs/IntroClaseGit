@@ -18,3 +18,4 @@ sidebar_position: 2
 - BTS
 - El fin de semana
 - The weeknd
+- Dieguito Maradona
