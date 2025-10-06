@@ -19,3 +19,4 @@ sidebar_position: 2
 - El fin de semana
 - The weeknd
 - Dieguito Maradona
+- Lali
